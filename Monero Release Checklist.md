@@ -59,7 +59,8 @@
   - [ ] Update downloads.yml on website
   - [ ] Update auto-update DNS records
   - [ ] Update redirects on downloads box
-- [ ] Monero-announce mailer notice 
-- [ ] Twitter announcement 
-- [ ] Reddit announcement 
-- [ ] Getmonero.org announcement
+- [ ] Release Announcements
+  - [ ] Monero-announce mailer notice 
+  - [ ] Twitter announcement 
+  - [ ] Reddit announcement 
+  - [ ] Getmonero.org announcement
